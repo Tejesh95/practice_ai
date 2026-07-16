@@ -322,7 +322,7 @@ if __name__ == "__main__":
     prompt = (
         "What's the weather in Hyderabad and Bangalore, "
         "what is the current stock price of GOOGLE, "
-        "and also calculate 45 * 12 + 7?"
+        "and also calculate twenty precent of 45"
     )
 
     print("=" * 70)
